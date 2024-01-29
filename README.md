@@ -4,8 +4,8 @@
 This project revolves around a csv dataset containing information on 100 movies sourced from the IMDb database. The dataset was intentionally made as a messy dataset, offering ample opportunities for data cleaning and exploratory data analysis. The primary objective is to apply data cleaning techniques and create compelling visualisations.
 
 ## Dataset details
-Source: https://www.kaggle.com/datasets/davidfuenteherraiz/messy-imdb-dataset
-Variables: The dataset encompasses around 100 rows and 11 variables, each providing unique information about the movies. These variables include details such as movie title, release year, genre, runtime, ratings, and more.
+- Source: https://www.kaggle.com/datasets/davidfuenteherraiz/messy-imdb-dataset
+- Variables: The dataset encompasses around 100 rows and 11 variables, each providing unique information about the movies. These variables include details such as movie title, release year, genre, runtime, ratings, and more.
 
 
 ## Purpose
