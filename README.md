@@ -12,7 +12,11 @@ This project revolves around a csv dataset containing information on 100 movies 
 The project aims to showcase proficiency in data cleaning and analysis using Python, particularly leveraging the Pandas library in a Jupyter Notebook environment. By addressing the messiness of the dataset, the aim is to extract valuable insights into the characteristics and trends within the IMDb movie data.
 
 ## How to install requirements and run the file
-[In progress]
+To install requirements:
+
+- pip install -r requirements
+
+You can run the main file by using the 'Run All' button or using the play button next to each cell.
 
 ## Key steps
 ### Step 0 - Import libraries and read file
