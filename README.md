@@ -37,11 +37,7 @@ In Step 2, we enhance the IMDb Movies dataset by addressing duplicates, null val
 ### Step 3 - Visualise the data
 In Step 3 - Visualise Data, a preliminary exploration using Matplotlib aimed to answer the question, "Can you provide a visual representation of the distribution of countries in your dataset?" The code involved counting the occurrences of each country, creating a bar chart to illustrate the distribution. The x-axis displayed countries, the y-axis represented counts, and the bars were coloured in "LightSalmon." The chart was labelled, with 'Country' on the x-axis, 'Count' on the y-axis, and a title indicating 'Country Distribution.' To enhance readability, x-axis labels were rotated for better visibility. This initial visualisation offers a quick insight into the distribution of countries in the IMDb Movies dataset. For more comprehensive visualisations, the main focus will shift to Power BI.
 
-## Next steps
-[In progress]
-
-To elevate the data analysis experience, the next steps involve transitioning to Power BI for more advanced and interactive visualisations. By importing the cleaned IMDb Movies dataset, we can create compelling visual narratives that convey insights more effectively.
-
-
-## What could be done better
+## What could be done better?
 In considering ways to enhance the current project, there are two notable areas for improvement. First, introducing unit testing would provide a systematic means of validating individual functions and methods, contributing to the overall reliability and robustness of the code. Additionally, transitioning towards a more automated approach is recommended to reduce manual input. This shift not only streamlines the workflow but also reduces the likelihood of human errors, making the project more scalable and maintainable in the long run.
+
+In regards to the Power BI dashboard, there are notable areas for potential improvement. One avenue for enhancement is the incorporation of drill-down functionalities. While the current dashboard provides an overall view, enabling users to delve deeper into specific details through drill-downs could offer a more granular understanding of the data. Additionally, a more extensive utilisation of DAX could amplify the analytical capabilities of the dashboard. Leveraging DAX functions and formulas could lead to more sophisticated calculations and aggregations, providing greater insights into the dataset. By considering these improvements, the dashboard could evolve into a more dynamic and insightful tool for data exploration and decision-making.
