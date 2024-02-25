@@ -37,6 +37,8 @@ In Step 2, we enhance the IMDb Movies dataset by addressing duplicates, null val
 ### Step 3 - Visualise the data
 In Step 3 - Visualise Data, a preliminary exploration using Matplotlib aimed to answer the question, "Can you provide a visual representation of the distribution of countries in your dataset?" The code involved counting the occurrences of each country, creating a bar chart to illustrate the distribution. The x-axis displayed countries, the y-axis represented counts, and the bars were coloured in "LightSalmon." The chart was labelled, with 'Country' on the x-axis, 'Count' on the y-axis, and a title indicating 'Country Distribution.' To enhance readability, x-axis labels were rotated for better visibility. This initial visualisation offers a quick insight into the distribution of countries in the IMDb Movies dataset. For more comprehensive visualisations, the main focus will shift to Power BI.
 
+![image](https://github.com/Ijaz-M1/IMDB_data_analysis/assets/147624234/85041621-97b2-49c5-b521-41769641809f)
+
 ## What could be done better?
 In considering ways to enhance the current project, there are two notable areas for improvement. First, introducing unit testing would provide a systematic means of validating individual functions and methods, contributing to the overall reliability and robustness of the code. Additionally, transitioning towards a more automated approach is recommended to reduce manual input. This shift not only streamlines the workflow but also reduces the likelihood of human errors, making the project more scalable and maintainable in the long run.
 
